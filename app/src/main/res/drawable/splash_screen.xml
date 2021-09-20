@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/blue_700"/>
+
+    <item android:gravity="center">
+        <shape android:shape="oval">
+            <solid android:color="@color/white"/>
+            <size android:width="300dp" android:height="300dp"/>
+        </shape>
+    </item>
+
+    <item android:gravity="center">
+        <shape android:shape="oval">
+            <solid android:color="@color/blue_700"/>
+            <size android:width="270dp" android:height="302dp"/>
+        </shape>
+    </item>
+
+
+
+    <item android:gravity="center"
+        android:width="200dp"
+        android:height="200dp">
+        <bitmap android:src="@drawable/gym"/>
+    </item>
+</layer-list>

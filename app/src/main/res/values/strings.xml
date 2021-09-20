@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- App -->
+    <string name="app_name">App GYM</string>
+
+    <!-- inicio -->
+    <string name="title1">Inicio de Sesión</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="name">Nombre</string>
+    <string name="password">Contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="power">Poder</string>
+    <string name="strong">Fuerza</string>
+    <string name="yoga">Yoga</string>
+
+
+    <string name="share">Share</string>
+    <string name="count">count</string>
+    <string name="information">information</string>
+    <string name="configuration">Configuration</string>
+    <string name="cardio">Cardio</string>
+    <string name="fitness">fitness</string>
+
+
+    <!-- AlertDialog -->
+    <string name="title_exit_alert">¿Esta seguro de querer salir?</string>
+    <string name="message_exit_alert">Si sale de la aplicacíon perderá todo el progreso</string>
+    <string name="negative_exit_alert">Canselar</string>
+    <string name="positive_exit_alert">Salir</string>
+
+</resources>

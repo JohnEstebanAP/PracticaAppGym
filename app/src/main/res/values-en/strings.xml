@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">First Project</string>
+    <string name="title1">Login</string>
+    <string name="iniciar">Start</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="registrar">Register</string>
+    <string name="power">Power</string>
+    <string name="strong">Strong</string>
+    <string name="yoga">Yoga</string>
+
+    <string name="share">Share</string>
+    <string name="count">count</string>
+    <string name="information">information</string>
+    <string name="configuration">Configuration</string>
+    <string name="cardio">Cardio</string>
+    <string name="fitness">fitness</string>
+
+
+    <!-- AlertDialog -->
+    <string name="title_exit_alert">Are you sure you want to leave</string>
+    <string name="message_exit_alert">If you exit the application you will lose all progress:</string>
+    <string name="positive_exit_alert">GO to</string>
+    <string name="negative_exit_alert">Cancel</string>
+</resources>
