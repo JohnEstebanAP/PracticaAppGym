@@ -23,4 +23,8 @@
     <string name="message_exit_alert">If you exit the application you will lose all progress:</string>
     <string name="positive_exit_alert">GO to</string>
     <string name="negative_exit_alert">Cancel</string>
+    <string name="home">Home</string>
+    <string name="title_camera">camera</string>
+    <string name="title_contact">contact</string>
+    <string name="title_nutrition">Nutrition</string>
 </resources>

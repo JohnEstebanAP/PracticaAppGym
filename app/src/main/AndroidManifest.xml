@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PrimerProyecto">
         <activity
-            android:name=".PreviewActivity"
+            android:name="com.example.appgym.PreviewActivity"
             android:exported="true" />
         <activity
             android:name="com.example.appgym.Information"

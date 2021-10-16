@@ -12,12 +12,19 @@
         <entry key="app/src/main/res/drawable/logo_background.xml" value="0.615625" />
         <entry key="app/src/main/res/drawable/splash_screen.xml" value="0.615625" />
         <entry key="app/src/main/res/drawable/text_hove.xml" value="0.615625" />
-        <entry key="app/src/main/res/layout/activity_app_gym.xml" value="0.671875" />
+        <entry key="app/src/main/res/layout/activity_app_gym.xml" value="1.5" />
         <entry key="app/src/main/res/layout/activity_count.xml" value="1.25" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.7770833333333333" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.35" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.9" />
+        <entry key="app/src/main/res/layout/activity_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_contact.xml" value="0.9325" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.9" />
+        <entry key="app/src/main/res/layout/navigation_bottom.xml" value="1.0" />
+        <entry key="app/src/main/res/layout/toolbar.xml" value="0.5935828877005348" />
+        <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.7302631578947368" />
         <entry key="app/src/main/res/menu/menu.xml" value="0.775" />
+        <entry key="app/src/main/res/menu/menu_navigation.xml" value="0.7770833333333333" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.615625" />
       </map>
     </option>
